@@ -16,6 +16,8 @@ const dishData = [
         price: 6.45
     },
 ]
+
+console.log("Hello JAVA SCRIPT")
 const tax = 1.20;
 let finalPrice;
 finalPrice += dishData[0]['price']*tax
